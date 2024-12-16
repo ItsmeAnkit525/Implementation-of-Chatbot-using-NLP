@@ -1,0 +1,75 @@
+[
+    {
+        "tag": "account_issues",
+        "patterns": ["How can I reset my password?", "I can't log in.", "Help with account login", "I forgot my password"],
+        "responses": ["To reset your password, please visit the 'Forgot Password' page on our website."]
+    },
+    {
+        "tag": "product_information",
+        "patterns": ["Tell me about your products", "What is your return policy?", "What products do you offer?", "What is your warranty policy?"],
+        "responses": ["We offer a wide range of products. Visit our 'Products' page for more details."]
+    },
+    {
+        "tag": "order_support",
+        "patterns": ["Where is my order?", "I want to track my shipment.", "When will my order arrive?"],
+        "responses": ["You can track your order using the tracking number provided in your confirmation email."]
+    },
+    {
+        "tag": "technical_support",
+        "patterns": ["My account is not working", "I need help with an error.", "I'm facing a technical issue"],
+        "responses": ["Please provide more details about the issue you're facing, and I'll assist you further."]
+    },
+    {
+        "tag": "general_queries",
+        "patterns": ["What are your business hours?", "How can I contact support?", "Where is your office located?"],
+        "responses": ["Our business hours are 9 AM to 6 PM, Monday to Friday. You can contact support via email at support@company.com."]
+    },
+
+    {"tag": "account_issues", "patterns": ["How can I reset my password?", "I can't log in.", "Help with account login", "I forgot my password"], "responses": ["To reset your password, please visit the 'Forgot Password' page on our website."]},
+    {"tag": "account_issues", "patterns": ["How do I change my email address?", "I want to update my contact details", "Can I change my username?"], "responses": ["To change your email or username, go to the account settings page on our website."]},
+    {"tag": "account_issues", "patterns": ["I can't access my account", "My account is locked", "Why can't I sign in?"], "responses": ["Please try resetting your password or contact support if you are unable to access your account."]},
+    {"tag": "product_information", "patterns": ["Tell me about your products", "What is your return policy?", "What products do you offer?", "What is your warranty policy?"], "responses": ["We offer a wide range of products. Visit our 'Products' page for more details."]},
+    {"tag": "product_information", "patterns": ["What is the price of your products?", "How much do your items cost?", "Can you provide the price of a product?"], "responses": ["Please visit our website for the latest pricing information on all our products."]},
+    {"tag": "product_information", "patterns": ["Do you offer discounts?", "Are there any ongoing promotions?", "Do you have any seasonal sales?"], "responses": ["We have periodic sales and promotions. Please check our 'Offers' page for current discounts."]},
+    {"tag": "product_information", "patterns": ["Is this product available?", "Do you have this item in stock?", "Is this product still being sold?"], "responses": ["You can check product availability by visiting our product page or contacting our support team."]},
+    {"tag": "order_support", "patterns": ["Where is my order?", "I want to track my shipment.", "When will my order arrive?", "Has my order shipped?"], "responses": ["You can track your order using the tracking number provided in your confirmation email."]},
+    {"tag": "order_support", "patterns": ["I haven't received my order", "My order is delayed", "When will my package arrive?"], "responses": ["We're sorry for the delay. Please check your tracking details or contact our support team for assistance."]},
+    {"tag": "order_support", "patterns": ["I need to change my order", "Can I modify my order?", "How can I cancel my order?"], "responses": ["Please contact our support team immediately to modify or cancel your order."]},
+    {"tag": "order_support", "patterns": ["My order is wrong", "I received the wrong item", "I got the wrong product in my order"], "responses": ["We apologize for the mistake. Please contact customer support to resolve the issue."]},
+    {"tag": "order_support", "patterns": ["How do I track my package?", "Where can I find the tracking number?", "Can you help me track my order?"], "responses": ["You should have received a tracking number in your order confirmation email. Please use that to track your package."]},
+    {"tag": "payment_issues", "patterns": ["I can't make a payment", "My payment was declined", "Why was my payment not processed?"], "responses": ["Please verify your payment details and try again. If the issue persists, contact your bank or our support team."]},
+    {"tag": "payment_issues", "patterns": ["How do I get a refund?", "Can I get my money back?", "How can I return a product?"], "responses": ["To request a refund or return, please visit our Returns & Refunds page or contact customer support."]},
+    {"tag": "payment_issues", "patterns": ["Do you accept credit cards?", "Can I pay with PayPal?", "What payment methods do you accept?"], "responses": ["We accept various payment methods including credit cards, PayPal, and more. Visit our Payment Information page for a full list."]},
+    {"tag": "payment_issues", "patterns": ["Is there a payment installment option?", "Can I pay in installments?", "Do you offer financing?"], "responses": ["Currently, we do not offer installment payments. Please check our website for the available payment methods."]},
+    {"tag": "shipping_information", "patterns": ["What are your shipping rates?", "How much does shipping cost?", "Do you offer free shipping?"], "responses": ["Shipping rates vary based on your location. Please visit our Shipping Information page for more details."]},
+    {"tag": "shipping_information", "patterns": ["How long does shipping take?", "When will my order arrive?", "What is your delivery time?"], "responses": ["Shipping times depend on your location and the selected shipping method. Please check your order confirmation for details."]},
+    {"tag": "shipping_information", "patterns": ["Do you ship internationally?", "Can I order from outside the US?", "Do you ship to Canada?"], "responses": ["Yes, we offer international shipping. Please check our Shipping Information page for a list of supported countries."]},
+    {"tag": "technical_support", "patterns": ["My account is not working", "I need help with an error.", "I'm facing a technical issue"], "responses": ["Please provide more details about the issue you're facing, and I'll assist you further."]},
+    {"tag": "technical_support", "patterns": ["I can't access my account", "My account is locked", "Why can't I sign in?"], "responses": ["Please try resetting your password or contact support if you're still unable to access your account."]},
+    {"tag": "technical_support", "patterns": ["The website is down", "I'm getting an error message", "I'm facing issues with your website"], "responses": ["We apologize for the inconvenience. Our technical team is working on resolving the issue."]},
+    {"tag": "technical_support", "patterns": ["Why is my app not working?", "The app is crashing", "I can't log into the mobile app"], "responses": ["Please ensure that you're using the latest version of the app. If the issue persists, contact support for further assistance."]},
+    {"tag": "technical_support", "patterns": ["How can I update my software?", "I need help updating my account", "Is there an update for my app?"], "responses": ["Please visit the App Store or Google Play to update the app. If you need assistance, contact customer support."]},
+    {"tag": "general_queries", "patterns": ["What are your business hours?", "How can I contact support?", "Where is your office located?"], "responses": ["Our business hours are 9 AM to 6 PM, Monday to Friday. You can contact support via email at support@company.com."]},
+    {"tag": "general_queries", "patterns": ["What is your phone number?", "How can I reach customer service?", "Can I call support?"], "responses": ["You can reach our customer service team by calling (123) 456-7890 or emailing support@company.com."]},
+    {"tag": "general_queries", "patterns": ["Can I change my shipping address?", "How do I update my delivery address?", "Can I change my shipping details?"], "responses": ["Please contact our support team immediately to change your shipping address before your order ships."]},
+    {"tag": "general_queries", "patterns": ["How do I contact your sales team?", "Can I talk to a sales representative?", "I need help with purchasing a product"], "responses": ["For sales inquiries, please email sales@company.com, or call our sales department at (123) 456-7891."]},
+    {"tag": "general_queries", "patterns": ["Do you offer gift cards?", "Can I buy a gift card?", "Where can I purchase a gift card?"], "responses": ["Yes, we offer gift cards. Visit our Gift Cards page for more details on how to purchase them."]},
+    {"tag": "general_queries", "patterns": ["Are you hiring?", "Do you have job openings?", "How can I apply for a job?"], "responses": ["We are currently hiring! Please visit our Careers page for the latest job openings and how to apply."]},
+    {"tag": "general_queries", "patterns": ["Can I give you feedback?", "How do I leave feedback?", "Where can I submit a review?"], "responses": ["We welcome your feedback! Please visit our Feedback page to share your thoughts."]},
+    {"tag": "return_and_exchange", "patterns": ["How do I return an item?", "I need to exchange a product", "Can I return a product after 30 days?"], "responses": ["Please visit our Returns & Exchanges page for instructions on how to return or exchange your items."]},
+    {"tag": "return_and_exchange", "patterns": ["How long do I have to return an item?", "When is the return period?", "What is your return policy?"], "responses": ["Our standard return policy allows returns within 30 days of purchase. Please check our Returns & Exchanges page for more details."]},
+    {"tag": "return_and_exchange", "patterns": ["Do I need a receipt for a return?", "Can I return an item without proof of purchase?", "What if I lost my receipt?"], "responses": ["A receipt is required for returns, but if you lost it, please contact our support team to check other options."]},
+    {"tag": "return_and_exchange", "patterns": ["Can I get a gift card instead of a refund?", "Can I exchange a product for a different one?", "Can I get store credit for a return?"], "responses": ["Yes, we offer store credit for returns. Please contact customer support for more information."]},
+    {"tag": "return_and_exchange", "patterns": ["My item is defective", "I received a damaged product", "The item I received is broken"], "responses": ["We're sorry about that! Please contact our support team for a return or replacement process."]},
+    {"tag": "promotion_and_discount", "patterns": ["Do you offer any discounts?", "Are there any promo codes?", "What are your current offers?"], "responses": ["We regularly offer promotions. Please check our 'Offers' page for current deals and discounts."]},
+    {"tag": "promotion_and_discount", "patterns": ["How do I apply a discount?", "Can I use a promo code at checkout?", "Where can I enter a promo code?"], "responses": ["You can apply your promo code during checkout in the 'Promo Code' field."]},
+    {"tag": "promotion_and_discount", "patterns": ["Is there a student discount?", "Do you offer discounts for seniors?", "Is there a military discount?"], "responses": ["We offer discounts to students, seniors, and military personnel. Please check our Discounts page for more details."]},
+    {"tag": "promotion_and_discount", "patterns": ["Can I combine promotions?", "Can I use more than one discount?", "Can I apply multiple promo codes?"], "responses": ["Our system typically allows one promo code per order. Please check the details of each offer."]},
+    {"tag": "promotion_and_discount", "patterns": ["When does the sale end?", "How long is the promotion valid?", "Can I extend my discount?"], "responses": ["Sales and promotions typically last for a limited time. Please check our Offers page for the exact end date."]},
+    {"tag": "gift_and_rewards", "patterns": ["Do you have a loyalty program?", "Can I earn rewards?", "What are your rewards for customers?"], "responses": ["We have a loyalty program where you can earn points with every purchase. Please visit our Rewards page for more details."]},
+    {"tag": "gift_and_rewards", "patterns": ["How can I redeem my rewards?", "What can I do with my points?", "How do I claim my rewards?"], "responses": ["You can redeem your rewards through our website. Please log into your account and visit the Rewards section."]},
+    {"tag": "gift_and_rewards", "patterns": ["Do you offer birthday gifts?", "Is there a birthday reward?", "Do I get a gift for my birthday?"], "responses": ["Yes, we offer a special birthday gift for members of our loyalty program. Please check your account for more details."]},
+    {"tag": "gift_and_rewards", "patterns": ["How can I refer a friend?", "Do you have a referral program?", "Can I earn rewards for referring someone?"], "responses": ["Yes, we offer a referral program. Refer a friend to earn points or discounts. Visit our Referral page for more details."]},
+    {"tag": "technical_support", "patterns": ["I have an error in my order", "There's a bug in the system", "The app won't load properly"], "responses": ["We apologize for the inconvenience. Please contact technical support for assistance with your issue."]}
+]
+
