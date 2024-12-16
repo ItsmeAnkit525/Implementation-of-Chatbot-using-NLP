@@ -6,6 +6,13 @@ A Customer Support Chatbot built using Natural Language Processing (NLP) techniq
 
 This project implements a simple customer support chatbot that can classify user input into predefined categories (intents) and generate appropriate responses. The chatbot uses **Logistic Regression** for intent classification and **TF-IDF Vectorization** for text feature extraction. The user interface is built with **Streamlit**, allowing for an interactive web-based experience.
 
+![Alt text](Image1.png)
+
+![Alt text](Image2.png)
+
+![Alt text](Image3.png)
+
+
 ### Key Features:
 - **Intent Recognition**: Identifies the intent of the user's input (e.g., greeting, inquiry, complaint).
 - **Response Generation**: Provides pre-defined responses based on the identified intent.
@@ -40,7 +47,7 @@ To run this project, you need to install the required dependencies. You can do t
     Then run the following command to install the dependencies:
     ```bash
     pip install -r requirements.txt
-    
+
 ## Installation
 
 ### 1. Clone the Repository
